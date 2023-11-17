@@ -5,6 +5,6 @@ This is the accompanying code repository to the paper "From Principle to Practic
 ------
 **Authors**:<br>
 Robin Staab, robin.staab@inf.ethz.ch<br>
-Nikola Jovanić, nikola.jovanovic@inf.ethz.ch<br>
+Nikola Jovanović, nikola.jovanovic@inf.ethz.ch<br>
 Mislav Balunović, mislav.balunovic@inf.ethz.ch<br>
 Martin Vechev, martin.vechev@inf.ethz.ch
